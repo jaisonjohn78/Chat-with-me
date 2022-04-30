@@ -1,0 +1,39 @@
+ <!----------------------------------
+  Made with ❤ by: Jaison John 
+  Feel free to use this project as your own and 
+  do tag/mention me or fork this project if you like. 
+-------------------------------------->
+<!doctype html>
+<title>Chat With me</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<meta name="description" content="Jaison's Chat Bot screen" />
+<meta property="og:title" content="Chat Animation" />
+<meta property="og:description" content="Jaison's Chat Bot screen" />
+<meta property="og:type" content="website" />
+<link rel="icon" type="image/png" href="img/favicon.png" />
+<link rel="stylesheet" type="text/css" media="screen" href="./css/styles.css" />
+<body>
+  <div class="messages"></div>
+  <!-- <div id="btn">
+    <a>View Mode</a>
+    <i id="switch"></i>
+  </div> -->
+
+
+   <!-- toggle Javascript  -->
+  <script>
+  
+        const body = document.querySelector('body');
+        const btn = document.getElementById('btn');
+        btn.onclick = function(){
+            btn.classList.toggle('active');
+            body.classList.toggle('active');
+
+        }
+            
+  </script>
+
+  <script src="js/anime.js"></script>
+  <script src="js/scripts.js"></script>
+</body>
