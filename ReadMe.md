@@ -7,11 +7,11 @@ A simple chat (Typing) Animation Using Anime.js
 
 # View Demo
 
-  [![portfolio](https://img.shields.io/badge/Chat%20with%20me-View%20Now-green)](https://katherinempeterson.com/) 
+  [![portfolio](https://img.shields.io/badge/Chat%20with%20me-View%20Now-green)](https://jaisonjohn78.github.io/Chat-with-me/) 
      
   or   
     
-  Live server
+ <a href="https://jaisonjohn78.github.io/Chat-with-me/"> View Demo Page </a>
 
     
 
